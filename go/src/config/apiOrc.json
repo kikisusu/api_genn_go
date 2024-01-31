@@ -1,0 +1,32 @@
+{
+    "apiList":[
+        {
+            "method": "GET",
+            "endpoint": "/marvelbuzz",
+            "outboud": [
+                {
+                    "obMethod": "GET",
+                    "obEndpoint": "https://whenisthenextmcufilm.com/api"
+                },
+                {
+                    "obMethod": "GET",
+                    "obEndpoint": "https://corporatebs-generator.sameerkumar.website"
+                }
+            ]
+        },
+        {
+            "method": "GET",
+            "endpoint": "/activeuuid",
+            "outboud": [
+                {
+                    "obMethod": "GET",
+                    "obEndpoint": "https://www.boredapi.com/api/activity/"
+                },
+                {
+                    "obMethod": "GET",
+                    "obEndpoint": "https://www.uuidtools.com/api/generate/v1"
+                }
+            ]
+        }
+    ]
+}
