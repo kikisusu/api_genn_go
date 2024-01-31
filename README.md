@@ -7,13 +7,17 @@ APIを増やす際に、APIの基本的な処理は実装不要。
 
 以下はサンプルで用意しているAPI
 
-* http://localhost:3001/marvelbuzz
+### サンプル①
+
+http://localhost:3001/marvelbuzz
 
 APIをコールすると、裏で2APIを実行し、両方のレスポンスデータから一部のデータを取り出しレスポンス
-  * https://whenisthenextmcufilm.com/api
-  * https://corporatebs-generator.sameerkumar.website/
+* https://whenisthenextmcufilm.com/api
+* https://corporatebs-generator.sameerkumar.website/
 
-* http://localhost:3001/activeuuid
+### サンプル②
+
+http://localhost:3001/activeuuid
 
 APIをコールすると、裏で2APIを実行し、両方のレスポンスデータから一部のデータを取り出しレスポンス
   * https://www.uuidtools.com/api/generate/v1
